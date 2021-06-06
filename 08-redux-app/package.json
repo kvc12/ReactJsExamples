@@ -1,0 +1,16 @@
+{
+  "name": "redux-app",
+  "version": "1.0.0",
+  "description": "First app of redux",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App"
+  },
+  "author": "onlychheda",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "redux": "^4.1.0"
+  }
+}
